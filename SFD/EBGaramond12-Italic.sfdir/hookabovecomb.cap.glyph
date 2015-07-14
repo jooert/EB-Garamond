@@ -4,6 +4,7 @@ Width: 0
 Flags: MW
 AnchorPoint: "hookstack" 42 743 mark 0
 AnchorPoint: "top_accent" 91 710 mark 0
+TopAccentHorizontal: 91
 LayerCount: 2
 Fore
 SplineSet

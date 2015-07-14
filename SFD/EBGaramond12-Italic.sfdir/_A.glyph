@@ -7,6 +7,7 @@ AnchorPoint: "cedilla" 145 8 basechar 0
 AnchorPoint: "ogonek" 598 18 basechar 0
 AnchorPoint: "below_accent" 334 -100 basechar 0
 AnchorPoint: "top_accent" 792 710 basechar 0
+TopAccentHorizontal: 792
 LayerCount: 2
 Back
 Image: 464 224 2 1392 0 ffffffff -38 829 5.55795 5.65179 0

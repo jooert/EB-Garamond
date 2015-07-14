@@ -5,6 +5,7 @@ VWidth: 0
 Flags: HMW
 AnchorPoint: "gravestack" 76 456 mark 0
 AnchorPoint: "top_accent" 90 550 mark 0
+TopAccentHorizontal: 90
 LayerCount: 2
 Fore
 SplineSet

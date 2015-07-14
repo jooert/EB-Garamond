@@ -4,6 +4,7 @@ Width: 395
 Flags: HMW
 AnchorPoint: "below_accent" 121 -100 basechar 0
 AnchorPoint: "top_accent" 337 550 basechar 0
+TopAccentHorizontal: 337
 LayerCount: 2
 Back
 Image: 240 352 2 720 0 ffffffff -255 882 3.28889 3.36364 0

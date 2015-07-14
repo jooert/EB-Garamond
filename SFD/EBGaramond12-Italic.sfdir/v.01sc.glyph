@@ -6,6 +6,7 @@ Flags: W
 HStem: 421 31<123.516 190.499 288.427 354.556 452.501 502.153 598.073 667.785>
 AnchorPoint: "below_accent" 85 -100 basechar 0
 AnchorPoint: "top_accent" 425 580 basechar 0
+TopAccentHorizontal: 425
 LayerCount: 2
 Fore
 SplineSet

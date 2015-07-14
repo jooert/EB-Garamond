@@ -4,6 +4,7 @@ Width: 518
 VWidth: 0
 Flags: HMW
 AnchorPoint: "top_accent" 400 580 basechar 0
+TopAccentHorizontal: 400
 LayerCount: 2
 Fore
 SplineSet

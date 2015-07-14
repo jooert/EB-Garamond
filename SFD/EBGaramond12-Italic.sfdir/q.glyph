@@ -3,6 +3,7 @@ Encoding: 113 113 10
 Width: 465
 Flags: MW
 AnchorPoint: "top_accent" 385 550 basechar 0
+TopAccentHorizontal: 385
 LayerCount: 2
 Back
 Image: 340 217 2 1020 0 ffffffff -545 950.199 6.76471 6.80276 0

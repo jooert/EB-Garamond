@@ -6,6 +6,7 @@ AnchorPoint: "cedilla" 570 8 basechar 0
 AnchorPoint: "ogonek" 341 18 basechar 0
 AnchorPoint: "below_accent" 178 -100 basechar 0
 AnchorPoint: "top_accent" 356 550 basechar 0
+TopAccentHorizontal: 356
 LayerCount: 2
 Fore
 SplineSet

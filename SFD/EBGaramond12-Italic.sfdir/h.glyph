@@ -5,6 +5,7 @@ Flags: MW
 AnchorPoint: "cedilla" 67 8 basechar 0
 AnchorPoint: "below_accent" 201 -100 basechar 0
 AnchorPoint: "top_accent" 423 812 basechar 0
+TopAccentHorizontal: 423
 LayerCount: 2
 Back
 Image: 238 209 2 714 0 ffffffff -945 951 6.37815 6.32536 0

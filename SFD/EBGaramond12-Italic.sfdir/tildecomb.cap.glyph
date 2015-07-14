@@ -5,6 +5,7 @@ Flags: HMW
 AnchorPoint: "top_stack" 128 706 mark 0
 AnchorPoint: "top_stack" 159 820 basemark 0
 AnchorPoint: "top_accent" 117 710 mark 0
+TopAccentHorizontal: 117
 LayerCount: 2
 Fore
 SplineSet

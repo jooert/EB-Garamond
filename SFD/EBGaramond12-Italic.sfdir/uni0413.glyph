@@ -5,6 +5,7 @@ VWidth: 0
 Flags: MW
 AnchorPoint: "below_accent" 149 -100 basechar 0
 AnchorPoint: "top_accent" 483 701 basechar 0
+TopAccentHorizontal: 483
 LayerCount: 2
 Fore
 Refer: 1078 915 N 1 0 0 1 0 0 3

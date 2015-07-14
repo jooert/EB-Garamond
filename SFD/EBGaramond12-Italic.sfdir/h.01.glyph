@@ -5,6 +5,7 @@ Flags: HW
 AnchorPoint: "cedilla" 67 8 basechar 0
 AnchorPoint: "below_accent" 201 -100 basechar 0
 AnchorPoint: "top_accent" 288 812 basechar 0
+TopAccentHorizontal: 288
 LayerCount: 2
 Fore
 Refer: 4 104 N 1 0 0 1 0 0 2

@@ -4,5 +4,6 @@ Width: 1000
 VWidth: 0
 Flags: MW
 AnchorPoint: "top_accent" 193 580 basechar 0
+TopAccentHorizontal: 193
 LayerCount: 2
 EndChar

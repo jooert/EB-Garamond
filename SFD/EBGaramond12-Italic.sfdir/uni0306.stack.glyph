@@ -9,6 +9,7 @@ AnchorPoint: "acutestack" 178 566 basemark 0
 AnchorPoint: "gravestack" 194 566 basemark 0
 AnchorPoint: "top_stack" 205 617 basemark 0
 AnchorPoint: "top_accent" 169 550 mark 0
+TopAccentHorizontal: 169
 LayerCount: 2
 Back
 SplineSet

@@ -4,6 +4,7 @@ Width: 508
 Flags: MW
 AnchorPoint: "below_accent" 157 -100 basechar 0
 AnchorPoint: "top_accent" 376 550 basechar 0
+TopAccentHorizontal: 376
 AnchorPoint: "topleft" 172 552 basechar 0
 LayerCount: 2
 Back

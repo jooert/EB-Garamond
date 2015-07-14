@@ -7,6 +7,7 @@ AnchorPoint: "top_right1" 383 589 basechar 0
 AnchorPoint: "cedilla" 139 8 basechar 0
 AnchorPoint: "below_accent" 52 -100 basechar 0
 AnchorPoint: "top_accent" 277 594 basechar 0
+TopAccentHorizontal: 277
 LayerCount: 2
 Back
 Image: 348 296 2 1044 0 ffffffff -171.014 1326 6.14418 6.26013 0

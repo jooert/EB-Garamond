@@ -4,6 +4,7 @@ Width: 400
 VWidth: 0
 Flags: HMW
 AnchorPoint: "top_accent" 322 550 basechar 0
+TopAccentHorizontal: 322
 LayerCount: 2
 Fore
 Refer: 128 808 N 1 0 0 1 31 0 2

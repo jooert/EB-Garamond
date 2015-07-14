@@ -8,6 +8,7 @@ AnchorPoint: "acutestack" 122 579 basemark 0
 AnchorPoint: "top_stack" 136 636 basemark 0
 AnchorPoint: "gravestack" 141 579 basemark 0
 AnchorPoint: "top_accent" 127 550 mark 0
+TopAccentHorizontal: 127
 LayerCount: 2
 Fore
 SplineSet

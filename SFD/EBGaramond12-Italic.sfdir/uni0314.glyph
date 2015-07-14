@@ -4,6 +4,7 @@ Width: 0
 VWidth: 0
 Flags: HMWO
 AnchorPoint: "top_accent" 107 550 mark 0
+TopAccentHorizontal: 107
 AnchorPoint: "grk_uc_top_left" 84 665 mark 0
 LayerCount: 2
 Fore

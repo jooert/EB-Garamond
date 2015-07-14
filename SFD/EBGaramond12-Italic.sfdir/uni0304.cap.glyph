@@ -5,6 +5,7 @@ Flags: HMW
 AnchorPoint: "top_stack" 140 706 mark 0
 AnchorPoint: "top_stack" 155 819 basemark 0
 AnchorPoint: "top_accent" 133 710 mark 0
+TopAccentHorizontal: 133
 AnchorPoint: "grk_uc_top" 165 720 mark 0
 LayerCount: 2
 Fore

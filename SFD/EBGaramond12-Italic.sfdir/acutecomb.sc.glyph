@@ -4,6 +4,7 @@ Width: 0
 VWidth: 0
 Flags: MW
 AnchorPoint: "top_accent" 40 550 mark 0
+TopAccentHorizontal: 40
 LayerCount: 2
 Fore
 SplineSet

@@ -3,6 +3,7 @@ Encoding: 782 782 625
 Width: 0
 Flags: MW
 AnchorPoint: "top_accent" 90 550 mark 0
+TopAccentHorizontal: 90
 LayerCount: 2
 Fore
 SplineSet

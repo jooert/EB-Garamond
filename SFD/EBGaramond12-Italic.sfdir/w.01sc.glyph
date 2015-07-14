@@ -7,6 +7,7 @@ HStem: 421 31<123.516 190.574 288.442 354.556 410.516 478.014 592.392 667.785 73
 VStem: 485 184<377 445>
 AnchorPoint: "below_accent" 228 -100 basechar 0
 AnchorPoint: "top_accent" 587 580 basechar 0
+TopAccentHorizontal: 587
 LayerCount: 2
 Fore
 SplineSet

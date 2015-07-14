@@ -5,6 +5,7 @@ VWidth: 0
 Flags: MW
 AnchorPoint: "grk_hstack" 130 640 basemark 0
 AnchorPoint: "top_accent" 107 550 mark 0
+TopAccentHorizontal: 107
 AnchorPoint: "grk_uc_top_left" 202 630 mark 0
 LayerCount: 2
 Fore

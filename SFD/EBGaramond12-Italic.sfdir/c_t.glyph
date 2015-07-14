@@ -5,6 +5,7 @@ Flags: HMW
 AnchorPoint: "cedilla" 154 8 basechar 0
 AnchorPoint: "below_accent" 199 -100 basechar 0
 AnchorPoint: "top_accent" 273 550 basechar 0
+TopAccentHorizontal: 273
 LayerCount: 2
 Back
 SplineSet

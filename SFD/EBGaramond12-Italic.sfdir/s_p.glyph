@@ -4,6 +4,7 @@ Width: 730
 Flags: HMW
 AnchorPoint: "cedilla" 114 8 basechar 0
 AnchorPoint: "top_accent" 616 550 basechar 0
+TopAccentHorizontal: 616
 LayerCount: 2
 Fore
 SplineSet
